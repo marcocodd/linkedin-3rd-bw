@@ -1,0 +1,33 @@
+#sticky-sidebars {
+    //     position: -webkit-sticky; /* per Safari */
+    //     position: sticky;
+    //     top: 20px;
+    //     max-height: calc(100vh - 40px);
+    font-size: 0.8rem;
+    max-width: 300px;
+  }
+
+ 
+  
+  .card-background-image {
+    background-size: cover;
+    background-position: center;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #job-title {
+    margin-bottom: 10px !important;
+  }
+  
+  .list-group-item {
+    padding: 0 5px 0 5px !important;
+    font-size: 0.8rem;
+  }
+  
+  .text-start {
+    border: none !important;
+  }
